@@ -1,4 +1,4 @@
-# Проект 0. Угадай число
+# Проект 1. Угадай число за менее чем 20 попыток
 
 ## Оглавление  
 [1. Описание проекта](https://lms.skillfactory.ru/courses/course-v1:SkillFactory+DST-3.0+28FEB2021/courseware/4d5c5211c48e4964a9449babe31038db/d08e512bf8264286966cb9ef71bd16d4/?child=first)  
