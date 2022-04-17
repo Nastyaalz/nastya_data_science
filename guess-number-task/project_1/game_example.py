@@ -16,8 +16,7 @@ def random_predict(number: int = 1) -> int:
     min = 1
     max = 101
     count = 0
-    predict_number = 0 # 
-       
+    predict_number = 0 # присваиваем загаданному числу значение, не равное number       
     while number != predict_number:
         count += 1
         predict_number = np.random.randint(min,max)
